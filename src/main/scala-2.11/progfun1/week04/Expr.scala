@@ -1,4 +1,4 @@
-package week04
+package progfun1.week04
 
 trait Expr {
   def eval: Int = this match {

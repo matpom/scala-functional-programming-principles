@@ -1,4 +1,4 @@
-import week04.{Number, Sum}
+import progfun1.week04.{Number, Sum}
 
 object exprs{
   val x = 1

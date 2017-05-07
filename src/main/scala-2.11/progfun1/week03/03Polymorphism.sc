@@ -1,5 +1,5 @@
-import week03.Nil
-import week03.Const
+import progfun1.week03.Nil
+import progfun1.week03.Const
 
 object polymorphism {
 

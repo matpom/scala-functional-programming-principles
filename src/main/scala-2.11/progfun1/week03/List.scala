@@ -1,4 +1,4 @@
-package week03
+package progfun1.week03
 
 trait List[T] {
   def isEmpty: Boolean
